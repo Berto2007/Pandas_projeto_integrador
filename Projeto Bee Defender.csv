@@ -1,0 +1,11 @@
+Nome;Custo;Calendário_da_tarefa;Data_da_restrição;Data_limite;Duração_Agendada;Início;Duração;Início_da_Entrega;Término
+Planejamento Inicial;R$ 10.000,00;Nenhum;Seg 27/05/24;ND;30 dias;Seg 27/05/24;30 dias;ND;Sex 05/07/24
+Legalização e Registro;R$ 6.400,00;Nenhum;ND;ND;15 dias;Seg 08/07/24;15 dias;ND;Sex 26/07/24
+Pesquisa e Desenvolvimentos;R$ 10.000,00;Nenhum;ND;ND;90 dias;Seg 08/07/24;90 dias;ND;Sex 08/11/24
+Infraestrutura e Instalações;R$ 20.000,00;Nenhum;ND;ND;60 dias;Seg 29/07/24;60 dias;ND;Sex 18/10/24
+Recrutamento;R$ 10.000,00;Nenhum;ND;ND;30 dias;Seg 21/10/24;30 dias;ND;Sex 29/11/24
+Aquisição de Maquinas e Equipamentos;R$ 30.000,00;Nenhum;ND;ND;30 dias;Seg 02/12/24;30 dias;ND;Sex 10/01/25
+Treinamento;R$ 10.000,00;Nenhum;Seg 02/12/24;ND;15 dias;Seg 02/12/24;15 dias;ND;Sex 20/12/24
+Desenvolvimento de Produtos;R$ 20.000,00;Nenhum;ND;ND;45 dias;Seg 23/12/24;45 dias;ND;Sex 21/02/25
+Marketing e Vendas;R$ 20.000,00;Nenhum;ND;ND;30 dias;Seg 24/02/25;30 dias;ND;Sex 04/04/25
+Lançamento e Operação;R$ 1.000,00;Nenhum;ND;ND;15 dias;Seg 07/04/25;15 dias;ND;Sex 25/04/25
